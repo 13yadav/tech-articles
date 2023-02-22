@@ -1,1 +1,1 @@
-# tech-articles
+# Tech Articles
